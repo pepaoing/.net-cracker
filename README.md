@@ -1,4 +1,4 @@
-<h3 align="left">Tools for .net deobfuscator 
+<h3 align="left">Tools for deobfuscate .net
 </h3>
 <p align="left">
 </p>
