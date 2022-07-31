@@ -1,4 +1,4 @@
-<h3 align="left">.net deobfuscator based on de4dot
+<h3 align="left">Tools for .net deobfuscator 
 </h3>
 <p align="left">
 </p>
