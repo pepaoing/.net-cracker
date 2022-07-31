@@ -1,23 +1,4 @@
-<h3 align="left">.net deobfuscator
-supported ofuscators Agile.NET (aka CliSecure)
-Babel.NET
-CodeFort
-CodeVeil
-CodeWall
-CryptoObfuscator
-DeepSea Obfuscator
-Dotfuscator
-.NET Reactor
-Eazfuscator.NET
-Goliath.NET
-ILProtector
-MaxtoCode
-MPRESS
-Rummage
-Skater.NET
-SmartAssembly
-Spices.Net
-Xenocode :</h3>
+<h3 align="left">.net deobfuscator</h3>
 <p align="left">
 </p>
 
